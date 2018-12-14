@@ -1,8 +1,3 @@
-/*
-    Name:   Nhan Le
-    ID:     1000589528
-*/
-
 // The MIT License (MIT)
 //
 // Copyright (c) 2016, 2017 Trevor Bakker
